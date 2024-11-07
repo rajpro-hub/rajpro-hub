@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajpro-hub
+- 👋 Hi, I’m Rajnish Kumar (@rajpro-hub)
 - 👀 I’m interested in Programming and coding
 - 🌱 I’m currently learning Full stack web devoloping
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me raj6205051083@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
